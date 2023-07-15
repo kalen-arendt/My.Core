@@ -1,0 +1,15 @@
+{
+  "name": "com.kalenarendt.my.core",
+  "version": "1.0.0",
+  "displayName": "My.Core",
+  "description": "My Core",
+  "unity": "2018.1",
+  "keywords": [
+    "my",
+    "core"
+  ],
+  "author": {
+    "name": "Kalen Arendt",
+    "email": "dev.kalenarendt@gmail.com"
+  }
+}
