@@ -2,7 +2,7 @@
   "name": "com.kalenarendt.my.core",
   "version": "1.0.0",
   "displayName": "My.Core",
-  "description": "My Core",
+  "description": "My Core unity package",
   "unity": "2018.1",
   "keywords": [
     "my",
