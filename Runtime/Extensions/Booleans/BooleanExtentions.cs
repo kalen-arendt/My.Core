@@ -16,7 +16,7 @@ namespace My.Core.Extensions.Booleans
          }
       }
 
-      public static void IfThenElse<T> (this T obj, bool condition, Action action1, Action action2)
+      public static void IfThenElse<T> (this T _, bool condition, Action action1, Action action2)
       {
          if (condition)
          {
